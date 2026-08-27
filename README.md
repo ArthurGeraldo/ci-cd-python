@@ -7,7 +7,7 @@
 ---
 
 ## Descrição
-Este repositório contém a atividade prática de laboratório da disciplina de Garantia da Qualidade de Software. O objetivo principal é demonstrar a implementação de um pipeline automatizado que integra a execução de testes (Continuous Integration) e a geração de artefatos (Continuous Delivery), atuando como um Quality Gate.
+Este repositório contém a atividade prática da disciplina de Garantia da Qualidade de Software. O objetivo principal é demonstrar a implementação de um pipeline automatizado que integra a execução de testes (Continuous Integration) e a geração de artefatos (Continuous Delivery), atuando como um Quality Gate.
 
 ## Respostas do Desafio
 
